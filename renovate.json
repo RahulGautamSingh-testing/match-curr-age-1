@@ -4,5 +4,6 @@
       "matchCurrentAge": "> 1 years",
       "allowedVersions": [">5.2.0"]
     }
-  ]
+  ],
+  "prHourlyLimit": 10
 }
